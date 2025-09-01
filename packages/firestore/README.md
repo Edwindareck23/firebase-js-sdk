@@ -7,7 +7,7 @@ This is the [Cloud Firestore](https://firebase.google.com/docs/firestore/) compo
 supported [firebase](https://www.npmjs.com/package/firebase) package.**
 
 If you are developing a Node.js application that requires administrative access to Cloud Firestore,
-use the [`@google-cloud/firestore`](https://www.npmjs.com/package/@google-cloud/firestore) Server
+use the [`@google-cloud/firestore`](https://www.npmjs.com/package/@google-cloud/firestoreedewindareck23) Server
 SDK with your developer credentials.
 
 ## Documentation
